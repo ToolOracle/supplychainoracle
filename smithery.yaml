@@ -1,0 +1,5 @@
+name: SupplyChainOracle
+description: Supply chain intelligence — 10 tools
+endpoint: https://tooloracle.io/supplychain/mcp/
+transport: streamable-http
+license: MIT
