@@ -1,0 +1,6 @@
+{
+  "name": "SupplyChainOracle",
+  "description": "Supply Chain Intelligence MCP Server. 10 tools.",
+  "repository": "https://github.com/ToolOracle/supplychainoracle",
+  "remoteUrl": "https://tooloracle.io/supplychain/mcp/"
+}
